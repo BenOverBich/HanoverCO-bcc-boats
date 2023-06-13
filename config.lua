@@ -27,10 +27,7 @@ Config.blipAllowedClosed = true -- If true, will show colored blip when shop is 
 Config.steamers = {
     -- Steamboats Only / Default: 1.0 / Fast: 1000.0+
     boatsteam02x = { speed = 500.0 },
-    keelboat     = { speed = 1000.0 },
-    tugboat2 = { speed = 650.0},
-    tugboat3 = { speed = 650.0},
-    turbineboat = { speed = 1250.0}
+    keelboat     = { speed = 1000.0 }
 
 }
 -----------------------------------------------------
